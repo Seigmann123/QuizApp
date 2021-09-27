@@ -5,4 +5,5 @@ Amazing
 
 Hei
 
-hva skak jeg skrive her
+hva skak jeg skriv
+dsfjdsse her
