@@ -1,3 +1,3 @@
 # QuizApp
 
-#Amazing
+Amazing
