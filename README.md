@@ -1,9 +1,4 @@
 # QuizApp
 
-Amazing
+Min QuizApp
 
-
-Hei
-
-hva skak jeg skriv
-dsfjdsse her
