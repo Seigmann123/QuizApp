@@ -18,3 +18,5 @@ class ValidatorTest
         val result = Validator.validatorInput(ammount, desc)
         assertThat(result)
     }
+
+
